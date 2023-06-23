@@ -1,4 +1,7 @@
-# Bem vindo!
+
+
+# Bem vindo!  
+### E aí 👋
 
  
 
@@ -6,20 +9,20 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Aprendendo um pouco dessa tal de programação
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Brazilzão.
 
-:books: I’m currently learning about Python at SoulCode Academy's Bootcamp.
+:books: Atualmente,  participando do Bootcamp da SoulCode Academy! 
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
  
 
 
-![Texto alternativo](https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/B1lMORS%2520-%2520Imgur.jpg)
 
-### Hi there 👋
+
+
 
 <!--
 **rodolfofps/rodolfofps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
