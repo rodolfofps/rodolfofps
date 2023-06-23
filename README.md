@@ -1,3 +1,5 @@
+![Texto alternativo](https://gist.githubusercontent.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/B1lMORS%2520-%2520Imgur.jpg)
+
 ### Hi there 👋
 
 <!--
