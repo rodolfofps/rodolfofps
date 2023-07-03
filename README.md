@@ -3,14 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=80&section=header35"/> 
 </div>
  
-
-# Bem vindo!  
-### E aí 👋
-
- 
-
-## Sou o Rodolfo!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Encode+Sans&size=30&pause=1000&background=806E5D00&center=true&vCenter=true&width=435&height=100&lines=Seja+bem-vindo;Sou+o+Rodolfo+%F0%9F%91%8B%F0%9F%91%A8)](https://git.io/typing-svg)
  
 
 :computer: Aprendendo um pouco dessa tal de programação
