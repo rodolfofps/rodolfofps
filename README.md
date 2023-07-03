@@ -1,4 +1,8 @@
-
+<div class="d-flex flex-column justify-content-center w-100 h-100">
+ <link rel="stylesheet" href=""C:\Users\Camila Fukuda\Desktop\Teste background\styles.css"">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=80&section=header35"/> 
+</div>
+ 
 
 # Bem vindo!  
 ### E aí 👋
@@ -38,3 +42,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa4239&height=100&section=footer35"/> 
