@@ -10,9 +10,9 @@
 
 :house_with_garden: Brazilzão.
 
-:books: Atualmente,  participando do Bootcamp da SoulCode Academy! 
+:books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) ! 
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: Conseguir um estágio, adquirir novos conhecimentos e permanecer na área de tecnologia.
 
  
 
