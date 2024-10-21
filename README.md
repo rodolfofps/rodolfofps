@@ -12,7 +12,7 @@
 
 :books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) ! 
 
-:outbox_tray: 2023 Goals: Conseguir um estágio, adquirir novos conhecimentos e permanecer na área de tecnologia.
+:outbox_tray: 2024 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
 
  
 
