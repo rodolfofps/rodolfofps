@@ -12,7 +12,7 @@
 
 :books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) ! 
 
-:outbox_tray: 2024 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
+:outbox_tray: 2025 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
 
  
 
