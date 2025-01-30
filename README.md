@@ -10,7 +10,8 @@
 
 :house_with_garden: Brazilzão.
 
-:books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) ! 
+:books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) !
+        Buscando me capacitar no segmento Backend Java
 
 :outbox_tray: 2025 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
 
