@@ -8,7 +8,7 @@
 
 :computer: Aprendendo um pouco dessa tal de programação
 
-:house_with_garden: Brazilzão.
+:house_with_garden: Bebedouro/SP
 
 :books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) !
         Buscando me capacitar no segmento Backend Java
