@@ -11,9 +11,9 @@
 :house_with_garden: Bebedouro/SP
 
 :books: Atualmente,  cursando Big Data voltado ao agronegócio na Faculdade de Tecnologia de São Paulo (FATEC) !
-        Buscando me capacitar no segmento Backend Java
+        Buscando me capacitar no segmento de Desenvolvimento de Apps
 
-:outbox_tray: 2025 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
+:outbox_tray: 2026 Goals: Adquirir novos conhecimentos, almejar novos desafios e conquistas.
 
  
 
